@@ -8,7 +8,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
-    
+    // Google Map View を配置する必要がある
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
